@@ -13,4 +13,5 @@ int main(){
     hasil = angka1 + angka2;
     printf("Hasil penjumlahan = %d", hasil);
     printf("ITCB 2021 Mantap Xixixixixixi");
+    printf("Tambahan dari gitnya")
 }
